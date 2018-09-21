@@ -11,6 +11,7 @@ namespace MusicHub.Controllers
         // GET: Store
         public ActionResult Index()
         {
+            //test
             return View();
         }
         //GET: Store/Product
